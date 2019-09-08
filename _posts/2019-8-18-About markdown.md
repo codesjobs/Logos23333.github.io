@@ -1,6 +1,6 @@
 ---
 published: true
-title: Markdown教程(1)
+title: About Markdown
 category: 语言教程
 tags: 
   - Markdown
