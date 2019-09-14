@@ -6,4 +6,4 @@ layout: page
 此博客开通于2019/08/18，分享与技术有关的文章，发表一些自认为不错的想法，本博客坚信淮南子的一句话：
 > 兰生幽谷，不为莫服而不芳；舟行江海，不为莫乘而不浮；君子行义，不为莫知而止休。
 
-此处附上另一位酷安网友的博客，专注于linux，分享了许多技术，推荐大家看看他的酷安和博客；[Alexander](https://alexander-huang.github.io)
+此处附上另一位酷安网友的博客，专注于linux，分享了许多技术，推荐大家看看他的酷安和博客；[Alexander-huang](https://alexander-huang.github.io)
