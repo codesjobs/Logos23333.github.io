@@ -7,3 +7,4 @@ layout: page
 > 兰生幽谷，不为莫服而不芳；舟行江海，不为莫乘而不浮；君子行义，不为莫知而止休。
 
 此处附上另一位酷安网友的博客，专注于linux，分享了许多技术，推荐大家看看他的酷安和博客；[Alexander-huang](https://alexander-huang.github.io)
+以及一位酷安大佬：https://litebyte.coding.me/
