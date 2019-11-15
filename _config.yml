@@ -3,15 +3,10 @@
 ## Docs: https://jekyllrb.com/docs/configuration/
 # ---------------------------------------------------------------
 
-# title
-links_title: Alexander-Huang
-links:
-  MacTalk: http://macshuo.com/
-  Title: http://example.com/
 
 # Site
 title: CodeSJobs’ Blog
-subtitle:Welcome to CodeSJobs' blog
+subtitle: Welcome to CodeSJobs' blog
 description: Answer is blowing in the wind!
 author: CodeSJobs
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
